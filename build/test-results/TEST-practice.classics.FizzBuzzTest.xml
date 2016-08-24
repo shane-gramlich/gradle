@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice.classics.FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-08-16T08:14:08" hostname="kali" time="0.05">
+  <properties/>
+  <testcase name="fizzString" classname="practice.classics.FizzBuzzTest" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

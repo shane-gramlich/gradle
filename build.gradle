@@ -1,0 +1,23 @@
+apply plugin: 'java'
+
+apply from: "gradle/eclipse.gradle"
+apply from: "gradle/simple_tasks.gradle"
+
+    
+repositories {
+    jcenter()
+}
+
+dependencies {
+    testCompile 'org.testng:testng:6.9.10'
+}
+
+test {
+    useTestNG {
+        excludeGroups 'integrationTests'
+    }
+    testLogging {
+    	showStandardStreams = true
+    	exceptionFormat = 'full'
+    }
+}

@@ -1,0 +1,7 @@
+This project represents a collection of code exercises I've pulled from various places.
+The package name of each class should indicate where the initial exercise was taken from.
+I may embellish certain exercises in order to practice/demonstrate a certain skill.
+Additional details will be recorded within the javadoc of each exercise.
+
+Corresponding unit tests were written for each exercise. You will find them under /src/test/java.
+Also, be sure to peek in some of the scripts at /gradle.

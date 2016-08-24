@@ -1,0 +1,7 @@
+def TASK = '# custom tasks #'
+
+task buildForEclipse {
+	group = TASK
+	dependsOn = ['clean', 'build', 'eclipse']
+	build.mustRunAfter clean
+}

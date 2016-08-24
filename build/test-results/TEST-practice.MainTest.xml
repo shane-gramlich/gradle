@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-06-22T04:26:06" hostname="kali" time="0.265">
+  <properties/>
+  <testcase name="testMain" classname="practice.MainTest" time="0.265"/>
+  <system-out><![CDATA[Main test starting
+00:26:07.209 [Test worker] INFO AnyUniqueStringHere - Hello World
+This just happened
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
