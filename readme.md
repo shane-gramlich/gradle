@@ -1,0 +1,1 @@
+This is just a sample project stub for gradle projects
